@@ -1,0 +1,227 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+body {
+  background-color: black;
+}
+.top {
+  background: url(Charcuterie_Darina-Kopcok.webp);
+  height: 74vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.logo {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-left: 20px;
+  border: 3px solid black;
+  height: 60px;
+  width: 160px;
+  border-radius: 30px;
+  background-color: darkred;
+  color:tan;
+  cursor: pointer;
+}
+.logo2 {
+  position: relative;
+  bottom: 10px;
+  right: 5px;
+}
+span {
+  color: darkcyan;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  color: wheat;
+  font-size: 30px;
+  text-decoration: none;
+  list-style: none;
+  cursor: pointer;
+}
+.list2 {
+  padding: 20px 50px 0px;
+}
+.list1 {
+  padding: 20px 50px 0px;
+}
+.list3 {
+  padding: 20px 50px 0px;
+}
+.list4 {
+  padding: 20px 50px 0px;
+}
+.mid {
+  background-color: black;
+}
+.mid1 {
+  display: flex;
+  flex-direction: row;
+}
+img {
+  height: 670px;
+  padding: 30px;
+}
+.para {
+  padding-top: 150px;
+
+  margin: 20px;
+}
+
+.para1 {
+  color: white;
+  border: 3px solid white;
+  height: 300px;
+  width: 600px;
+  font-size: 30px;
+  padding-top: 30px;
+  padding-left: 10px;
+  border-radius: 20px;
+  background-color: darkgoldenrod;
+}
+.bot {
+  position: relative;
+  font-size: 20px;
+  left: 235px;
+  top: 280px;
+  border-radius: 30px;
+  height: 45px;
+  width: 130px;
+  cursor: pointer;
+  transition: transform (0.4s);
+  background-color: red;
+}
+.bot:hover {
+  background-color: transparent;
+  background-color: darkmagenta;
+  transform: scale(1.2);
+  color: rgb(187, 179, 76);
+}
+.moj{
+  text-decoration: none;
+  color: black;
+}
+.moj:hover {
+  color: darkorange;
+}
+.cp1 {
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+  color: white;
+  font-size: 20px;
+  justify-content: space-around;
+}
+
+.p1 {
+  border: 2px solid white;
+  height: 270px;
+  padding: 30px;
+  margin: 30px;
+  background-color: rosybrown;
+  border-radius: 34px;
+}
+
+.p2 {
+  border: 2px solid white;
+  height: 270px;
+  padding: 30px;
+  margin: 30px;
+  margin: 30px;
+  background-color: rosybrown;
+  border-radius: 34px;
+}
+
+.p3 {
+  border: 2px solid white;
+  height: 270px;
+  padding: 30px;
+  margin: 30px;
+  margin: 30px;
+  background-color: rosybrown;
+  border-radius: 34px;
+}
+.moj1{
+  background-color: black;
+  color: brown;
+  position: relative;
+  top: 170px ;
+  left:150px ;
+  border: 2px solid;
+  border-radius: 30px;
+  height: 35px;
+  width: 80px;
+  font-size: 15px;
+  transition: transform (0.4s) ;
+  
+}
+.moj1:hover{
+transform: scale(1.2);
+background-color: darkgoldenrod;
+}
+.moj2{
+  text-decoration: none;
+  color: white;
+}
+.moj2:hover{
+  color: blue;
+}
+.moj4{
+  background-color: black;
+  color: brown;
+  position: relative;
+  top: 170px ;
+  left:150px ;
+  border: 2px solid;
+  border-radius: 30px;
+  height: 35px;
+  width: 80px;
+  font-size: 15px;
+  transition: transform (0.4s) ;
+
+}
+.moj4:hover{
+  transform: scale(1.2);
+  background-color: darkgoldenrod;
+  }
+  .moj5{
+    text-decoration: none;
+    color: white;
+  }
+  .moj5:hover{
+    color: blue;
+
+  }
+  .moj6{
+    background-color: black;
+    color: brown;
+    position: relative;
+    top: 170px ;
+    left:150px ;
+    border: 2px solid;
+    border-radius: 30px;
+    height: 35px;
+    width: 80px;
+    font-size: 15px;
+    transition: transform (0.4s) ;
+
+  }
+  .moj6:hover{
+    transform: scale(1.2);
+    background-color: darkgoldenrod;
+  }
+   .moj7{
+    text-decoration: none;
+    color: white;
+
+   }
+   .moj7:hover{
+    color: blue;
+   }
+
